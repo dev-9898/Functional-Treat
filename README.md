@@ -1,8 +1,3 @@
-Here is a **very simple README text** (easy English, no extra words).
-You can copy-paste this into `README.md`.
-
----
-
 # Data Analyzer and Transformer Program
 
 This is a simple Python menu-based program.
